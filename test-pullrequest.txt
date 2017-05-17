@@ -1,0 +1,3 @@
+Just for testing the integration of Github PullRequests.
+Integration: https://blogs.apache.org/infra/entry/github_pull_request_builds_now
+Buildjob: https://builds.apache.org/view/A/view/Ant/job/Ivy-GithubPR/
